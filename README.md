@@ -42,11 +42,16 @@ Processos: Planejamento de Teste, Execução e Relatório
 
  Criação do repositório
  Apresentação inicial no README
+ 
  Levantamento e análise dos requisitos
  Elaboração do plano de testes
+ 
  Documentação dos cenários e casos de teste
+ 
  Execução dos testes e coleta de evidências
+ 
  Registro dos bugs encontrados
+ 
  Elaboração do relatório de resultados
  
 📋 Feedbacks são bem-vindos!
