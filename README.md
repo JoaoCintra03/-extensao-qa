@@ -16,11 +16,17 @@ Construir uma documentação técnica bem estruturada, seguindo o modelo disponi
 🧱 Estrutura do repositório
 
 A estrutura está organizada por pastas, cada uma representando uma etapa da documentação:
+
 📁 Requisitos ↳ Levantamento e análise dos requisitos do SIFIT
+
 📁 Plano de Testes ↳ Escopo, estratégia, critérios e cronograma dos testes
+
 📁 Cenario de Testes ↳ Cenários e casos de teste (ex.: CT_RF14 – Gestão de turmas, CT_RF15 – Gestão financeira)
+
 📁 Bugs ↳ Relatório de bugs encontrados durante a execução
+
 📁 Relatórios ↳ Relatório dos testes executados e resultados finais
+
 📁 Evidências ↳ Prints e demais registros da execução dos testes
 
 🧪 Metodologia
